@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2412" started-at="2019-11-28T19:47:11Z" finished-at="2019-11-28T19:47:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2412" started-at="2019-11-28T19:47:11Z" finished-at="2019-11-28T19:47:14Z">
+      <class name="com.api.restcode.GetMultiUser">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.api.restcode.GetMultiUser@6767c1fc]" name="Test1" duration-ms="2138" started-at="2019-11-28T19:47:11Z" finished-at="2019-11-28T19:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.api.restcode.GetMultiUser@6767c1fc]" name="Test2" duration-ms="112" started-at="2019-11-28T19:47:13Z" finished-at="2019-11-28T19:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.api.restcode.GetMultiUser@6767c1fc]" name="Test3" duration-ms="136" started-at="2019-11-28T19:47:14Z" finished-at="2019-11-28T19:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.api.restcode.GetMultiUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
